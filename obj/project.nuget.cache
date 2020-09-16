@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "1hceQp/TuxVWCpKr+XN6htvmidf8NPto6DkEk3G1z5Lr1Xb+VaxVmf4zbu5fpYHWd1EJ4FQrlHAoqGMRncLrKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emmanuel\\source\\repos\\.temp\\SentryPoC\\SentryPoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.0\\microsoft.extensions.configuration.binder.3.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.0\\microsoft.extensions.dependencyinjection.3.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\microsoft.extensions.logging\\3.0.0\\microsoft.extensions.logging.3.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.0.0\\microsoft.extensions.logging.configuration.3.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.0.0\\microsoft.extensions.options.configurationextensions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\sentry\\2.1.5\\sentry.2.1.5.nupkg.sha512",
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\sentry.aspnetcore\\2.1.5\\sentry.aspnetcore.2.1.5.nupkg.sha512",
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\sentry.extensions.logging\\2.1.5\\sentry.extensions.logging.2.1.5.nupkg.sha512",
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\sentry.platformabstractions\\1.1.1\\sentry.platformabstractions.1.1.1.nupkg.sha512",
+    "C:\\Users\\Emmanuel\\.nuget\\packages\\sentry.protocol\\2.1.5\\sentry.protocol.2.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
